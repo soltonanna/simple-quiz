@@ -1,4 +1,4 @@
-<img src="src/assets/simpleQuiz" alt="Simple Quiz" />
+<img src="src/assets/quiz-screen.png" alt="Simple Quiz" />
 
 ## Simple Quiz App
 This app based on React JS with used Tailwind CSS.
