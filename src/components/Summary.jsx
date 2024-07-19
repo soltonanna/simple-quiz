@@ -1,7 +1,7 @@
 import React from 'react';
 import QUESTIONS from '../questions';
 
-import quizIsCompleteImg from '../assets/quiz-complete.png';
+import quizIsCompleteImg from '../assets/quiz-complete.jpg';
 
 const Summary = ({ userAnswers }) => {
     const skippedAnswers = userAnswers.filter(answer => answer === null);

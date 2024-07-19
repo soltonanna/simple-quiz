@@ -23,7 +23,7 @@ const Answers = ({ answers, selectedAnswer, answerState, onSelect }) => {
                 } 
 
                 return (
-                    <li key={answer} className='answer'>
+                    <li key={answer} className='answer animated'>
                         <button 
                             onClick={() => onSelect(answer)}
                             className={cssClass}
